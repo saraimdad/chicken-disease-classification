@@ -8,7 +8,7 @@ __version__ = '0.0.0'
 REPO_NAME = 'chicken-disease-classifier'
 AUTH_USER_NAME = 'saraimdad'
 SRC_REPO = 'cnnClassifier'
-AUTHOR_EMAIL = 'saraimdad12@gmail.com'
+AUTHOR_EMAIL = 'smohammadzai.bese19seecs@seecs.edu.pk'
 
 setuptools.setup(
     name=SRC_REPO,
