@@ -34,6 +34,7 @@ Lastly, the dvc.yaml file was revised to eliminate redundant execution of pipeli
 2. Create a conda environment after opening the repository
 
 ``` conda create -n cnncls python=3.11 -y ```
+
 ``` conda activate cnncls ```
 
 3. Install the requirements
