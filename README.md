@@ -43,4 +43,3 @@ Lastly, the dvc.yaml file was revised to eliminate redundant execution of pipeli
 4. Run the following and open localhost
 
 ``` python app.py ```
-
