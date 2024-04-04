@@ -1,6 +1,6 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template 
 import os
-from flask_cors import CORS, cross_origin
+from flask_cors import CORS, cross_origin 
 from cnnClassifier.utils.common import decode_image
 from cnnClassifier.pipeline.predict import PredictionPipeline
 
