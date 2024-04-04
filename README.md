@@ -1,5 +1,7 @@
 # chicken-disease-classification
 
+<p align="center" width="100%"><img width="575" alt="cdc" src=https://github.com/saraimdad/chicken-disease-classification/assets/157117492/6d025ca7-8254-41ea-b122-f48f83b286c7></p>
+
 ## Project Overview
 Chicken farming is a vital aspect of the agricultural industry, providing a significant portion of the world's meat consumption. However, poultry health is often threatened by various diseases, including coccidiosis, a common and economically significant parasitic disease caused by protozoa of the genus Eimeria. Timely and accurate diagnosis of such diseases is crucial for effective treatment and prevention strategies.
 
